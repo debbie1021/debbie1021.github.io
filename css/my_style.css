@@ -18,3 +18,12 @@ p.redred{
     text-indent: 2em;
     background-color: rgb(235, 230, 223);
 }
+
+.expedu_icon{
+    color:blue
+}
+
+.expedu_icon:hover{
+    background-color:blue;
+    color:white;
+}
