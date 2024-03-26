@@ -8,15 +8,18 @@ body{
 }
 
 .blueblue{
-    color:rgb(175, 184, 96);
+    color:rgb(79, 104, 146);
 }
 
 p.redred{
-    color:rgb(67, 110, 167);
+    color:rgb(229, 232, 238);
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
     background-color: rgb(235, 230, 223);
+    border: 10px solid;
+    border-color:burlywood;
+    background-image: url(../assets/img/bg-sky.jpg); 
 }
 
 .expedu_icon{
@@ -26,4 +29,9 @@ p.redred{
 .expedu_icon:hover{
     background-color:blue;
     color:white;
+}
+
+.bg-primary{
+    background-color:rgb(136, 155, 180) !important;
+    background-image: url(../assets/img/bg-sky.jpg);
 }
